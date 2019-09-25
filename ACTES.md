@@ -1,4 +1,4 @@
-                                                    # **ACTES LSE2 GRUP YUNVI**
+                                                    # ACTES LSE2 GRUP YUNVI
 
 **Data**: 25 de Setembre de 2019
 
@@ -10,6 +10,7 @@
 
 
 **Finalització**: 17:00
+
 
 
 **Presents a la reunió**:    
@@ -25,6 +26,8 @@ Alex Muñoz
 Eduard Serra
 
 **Excusen la seva absència**:
+
+
 Cap
 
 **Ordre del dia**:
