@@ -6,8 +6,8 @@
 **Finalització**: 17:00
 
 **Presents a la reunió**:    
-Pol Cortina
-Izan García
+Pol Cortina.
+Izan García.
 Alex Muñoz
 Eduard Serra
 
