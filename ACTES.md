@@ -6,17 +6,13 @@
 **Finalització**: 17:00  
 
 
-**Presents a la reunió**:    
-Pol Cortina
+**Presents a la reunió**:   
 
 
-Izan García
-
-
-Alex Muñoz
-
-
-Eduard Serra
+Pol Cortina  
+Izan García  
+Alex Muñoz  
+Eduard Serra  
 
 **Excusen la seva absència**:
 
@@ -25,9 +21,10 @@ Cap
 
 **Ordre del dia**:
 
-1. Definició del cronograma del projecte
-2. Disseny dels esquemàtics
-3. Tasques per a la propera setmana
+
+1. Definició del cronograma del projecte  
+2. Disseny dels esquemàtics  
+3. Tasques per a la propera setmana  
 
 **1. Definició del cornograma del projecte**
 
