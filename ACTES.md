@@ -1,16 +1,9 @@
                                                     # ACTES LSE2 GRUP YUNVI
 
-**Data**: 25 de Setembre de 2019
-
-
-**Lloc**: Laboratori LSE2
-
-
-**Inici**: 16:30
-
-
-**Finalització**: 17:00
-
+**Data**: 25 de Setembre de 2019  
+**Lloc**: Laboratori LSE2  
+**Inici**: 16:30  
+**Finalització**: 17:00  
 
 
 **Presents a la reunió**:    
