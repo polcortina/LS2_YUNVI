@@ -1,4 +1,4 @@
-                                                    # **ACTES LSE2 GRUP YUNVI**
+                                                    #**ACTES LSE2 GRUP YUNVI**
 
 **Data**: 25 de Setembre de 2019
 **Lloc**: Laboratori LSE2
